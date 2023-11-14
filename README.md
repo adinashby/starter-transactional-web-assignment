@@ -9,7 +9,7 @@ Create a personal portofolio website or re-use what you have already created in 
 Add the following functionalities to your front-end project:
 
 - **(%6)** Use some APIs (minimum two) to fetch data and show them in a meaningful way e.g. current weather data (https://openweathermap.org/api)
-- **(%6)** Create an API Server to respond and send JSON data to requests
+- **(%6)** Create an API Server to respond and send JSON data to requests with the appropriate documentation
 - **(%6)** Professional-looking User Interface (UI)
 - **(%6)** Host on a web server
 - **(%6)** Use a CI/CD Tool
